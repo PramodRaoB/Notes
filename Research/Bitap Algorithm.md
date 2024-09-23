@@ -1,0 +1,1 @@
+The Bitap algorithm solves the string-matching problem which consists of finding all occurrences of a pattern of length $m$ in a text of length $n$. 
